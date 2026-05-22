@@ -146,7 +146,11 @@ bash scripts/inference/Inference.sh
 ## 🤝🏼 Cite Us
 
 ```
-pass
+@inproceedings{ma2026easyvfx,
+  title     = {EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation},
+  author    = {Ma, Yue and Ye, Xu and Wang, Qinghe and Wang, Yucheng and Liu, Hongyu and Zhang, Yinhan and Wang, Xinyu and Che, Yuanpeng and Mo, Shanhui and Liang, Paul and Zhan, Fangneng and Chen, Qifeng},
+  booktitle = {ACM SIGGRAPH 2026 Conference Proceedings},
+  year      = {2026}
 ```
 
 
