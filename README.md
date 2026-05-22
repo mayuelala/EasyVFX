@@ -4,7 +4,7 @@
 
 Accepted by SIGGRAPH 2026
 
- [Yue Ma](https://mayuelala.github.io/)<sup>1</sup>, [Xu Ye](https://mayuelala.github.io/)<sup>1</sup>, [Qinghe Wang](https://qinghew.github.io/)<sup>2&#9993;</sup>, Yucheng Wang<sup>1</sup>, Hongyu Liu<sup>1</sup>, Yinhan Zhang<sup>1</sup>, Xinyu Wang<sup>3</sup>, Yuanpeng Chen<sup>4</sup>, Shanhui Mo<sup>4</sup>, Paul Liang<sup>5</sup>, Fangneng Zhan<sup>5&#9993;</sup>, Qifeng Chen<sup>1</sup>, <br>
+ [Yue Ma](https://mayuelala.github.io/)<sup>1</sup>, [Xu Ye](https://mayuelala.github.io/)<sup>1</sup>, [Qinghe Wang](https://qinghew.github.io/)<sup>2&#9993;</sup>, [Yucheng Wang](https://wangandyyucheng.github.io/)<sup>1</sup>, [Hongyu Liu](https://kumapowerliu.github.io/)<sup>1</sup>, [Yinhan Zhang](https://yinhan-zhang.github.io/)<sup>1</sup>, [Xinyu Wang](https://www.researchgate.net/profile/Xinyu-Wang-251)<sup>3</sup>, [Yuanpeng Chen](https://mayuelala.github.io/)<sup>4</sup>, [Shanhui Mo](https://openreview.net/profile?id=~Shanhui_Mo2)<sup>4</sup>, [Paul Liang](https://pliang279.github.io/)<sup>5</sup>, [Fangneng Zhan](https://fnzhan.com/)<sup>5&#9993;</sup>, [Qifeng Chen](https://cqf.io/)<sup>1</sup>, <br>
 <sup>1</sup>Hong Kong University of Science and Technology <sup>2</sup>Dalian University of Technology <sup>3</sup>Tsinghua University <sup>4</sup>Independent <sup>5</sup>Massachusetts Institute of Technology (MIT) <br>
 <sup>✉</sup>Corresponding Author
 
