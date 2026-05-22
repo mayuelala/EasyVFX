@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/5862d282-858d-4701-aede-e4872011676c
 **📖 Table of Contents**
 
 
-- [EasyVFX:Frequency-DrivenDecouplingforResource-EfficientVFX Generation]
+- [EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation]
   - [🛠️ Method Overview](#️-method-overview)
   - [🚀 Getting Started](#-getting-started)
   - [🏃🏼 Running Scripts](#-running-scripts)
