@@ -1,6 +1,6 @@
 <div align="center">
 
-# EasyVFX:Frequency-DrivenDecouplingforResource-EfficientVFX Generation
+# EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation
 
 Accepted by SIGGRAPH 2026
 
