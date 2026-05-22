@@ -4,7 +4,7 @@
 
 Accepted by SIGGRAPH 2026
 
- [Yue Ma](https://mayuelala.github.io/)<sup>&#9993;</sup>, Xu Ye(https://github.com/hello-it-bit)<sup></sup>, Qinghe Wang<sup>2</sup>, Yucheng Wang<sup>1</sup>, Hongyu Liu<sup>1</sup>, Yinhan Zhang<sup>1</sup>, Xinyu Wang<sup>3</sup>, Yuanpeng Chen<sup>4</sup>, Shanhui Mo<sup>4</sup>, Paul Liang<sup>5</sup>, Fangneng Zhan<sup>5</sup>, Qifeng Chen<sup>1</sup>, <br>
+ [Yue Ma](https://mayuelala.github.io/)<sup>&#9993;</sup>, Xu Ye<sup></sup>, Qinghe Wang<sup>2</sup>, Yucheng Wang<sup>1</sup>, Hongyu Liu<sup>1</sup>, Yinhan Zhang<sup>1</sup>, Xinyu Wang<sup>3</sup>, Yuanpeng Chen<sup>4</sup>, Shanhui Mo<sup>4</sup>, Paul Liang<sup>5</sup>, Fangneng Zhan<sup>5</sup>, Qifeng Chen<sup>1</sup>, <br>
 <sup>1</sup>Hong Kong University of Science and Technology <sup>2</sup>Dalian University of Technology <sup>3</sup>Tsinghua University <sup>4</sup>Independent <sup>5</sup>Massachusetts Institute of Technology (MIT) <br>
 <sup>*</sup>Equal Contribution <sup>✉</sup>Corresponding Author
 
