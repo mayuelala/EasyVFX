@@ -10,7 +10,7 @@ Accepted by SIGGRAPH 2026
 
 
 
-**Your star means a lot to us in developing this project!** ⭐⭐⭐
+**Your star means a lot to us in developing this project!** ⭐⭐⭐⭐
 </div>
 
 
